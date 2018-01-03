@@ -31,6 +31,7 @@ def main():
         if len(cont_frac(num)) % 2 == 0:
             c += 1
     print('There are {} continued fractions with an odd period'.format(c))
+    print(cont_frac(14))
     pass
 
 if __name__ == '__main__':
