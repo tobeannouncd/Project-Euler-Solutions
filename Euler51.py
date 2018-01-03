@@ -15,13 +15,8 @@ def is_prime(num):
     
     returns: True if num is prime, False otherwise
     '''
-    if type(num) == float:
-        if num.is_integer():
-            num = int(num)
-        else:
-            raise ValueError('input not an integer')
-    if type(num) != int:
-        raise TypeError('input not an integer')
+    if type(num) == str or type(num) == float:
+        num = int(num)
         
     if num < 2 or num % 2 == 0:
         return False
@@ -54,3 +49,14 @@ def next_prime(num):
     while not is_prime(num):
         num += 2
     return num
+
+def prime_sieve(limit):
+    a = [True] * limit
+    a[0] = a[1] = False
+    
+    for (i, isprime) in enumerate(a):
+        if isprime:
+            yield i
+            for n in range(i*i, limit, i):
+                a[n] = False
+

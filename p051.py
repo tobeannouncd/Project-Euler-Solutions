@@ -19,7 +19,7 @@ Find the smallest prime which, by replacing part of the number (not necessarily
 adjacent digits) with the same digit, is part of an eight prime value family.
 """
 from timeit import Timer
-from primes_051 import is_prime, next_prime
+from Euler51 import is_prime, next_prime
 
 def replace_digit(num, init, final):
     n_list = [int(x) for x in list(str(num))]
