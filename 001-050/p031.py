@@ -6,8 +6,8 @@ Created on Mon Nov 27 21:57:37 2017
 """
 count = 0
 #1 2 5 10 20 50 100 200
-for p1 in range(201):
-    p1_2 = 201 - p1
+for p1 in range(11):
+    p1_2 = 11 - p1
     for p2 in range(0, p1_2, 2):
         p2_5 = p1_2 - p2
         for p5 in range(0, p2_5, 5):

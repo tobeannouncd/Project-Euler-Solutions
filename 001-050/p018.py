@@ -5,7 +5,7 @@ Created on Mon Nov 27 10:39:08 2017
 @author: Tyler
 """
 tri = []
-with open('p067_triangle.txt') as f:
+with open('../p067_triangle.txt') as f:
 #    i = 0
     for line in f:
         line = line.strip()
