@@ -21,7 +21,7 @@ def sum_sq_digits(n):
 
 def main():
     count = 0
-    for i in range(1,10**6):
+    for i in range(10**6,10**7):
         if sum_sq_digits(i) == 89:
             count += 1
     print(count)

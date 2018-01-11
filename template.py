@@ -4,12 +4,13 @@
 
 Project Euler
 """
-from timeit import Timer
+from time import clock
 
-def main():
-    pass
+start_time = clock()
 
-if __name__ == '__main__':
-    t = Timer('main()', 'from __main__ import main')
-    print('Executed in {:.3G} seconds.'.format(t.timeit(1)))
+# =============================================================================
+# INSERT CODE HERE
+# =============================================================================
 
+time_elapsed = clock() - start_time
+print('Executed in {:.3G} seconds.'.format(time_elapsed))
