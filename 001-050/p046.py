@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 10:23:48 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Goldbach's other conjecture
 

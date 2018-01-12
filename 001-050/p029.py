@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 21:29:46 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 seq = []

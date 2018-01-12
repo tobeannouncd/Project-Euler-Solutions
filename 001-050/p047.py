@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 16:09:12 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Distinct primes factors
 

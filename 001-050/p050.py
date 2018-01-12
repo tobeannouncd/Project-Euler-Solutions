@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 18:53:37 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Consecutive prime sum
 Problem 50 

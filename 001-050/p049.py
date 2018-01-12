@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 18:08:07 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Prime permutations
 

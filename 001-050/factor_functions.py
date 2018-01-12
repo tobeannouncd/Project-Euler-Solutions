@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 20:32:21 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 def factors(num):

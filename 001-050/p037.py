@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 30 08:31:03 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Project Euler problem 37: truncatable primes
 

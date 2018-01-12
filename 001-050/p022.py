@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 12:43:27 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 def nameValue(name, ind):
     nameNums = []

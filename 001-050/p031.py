@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 21:57:37 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 import time
 start = time.clock()

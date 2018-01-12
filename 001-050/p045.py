@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 09:45:52 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Triangular, pentagonal, and hexagonal
 Problem 45 

@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 20:34:03 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Project Euler problem 35: circular primes
 

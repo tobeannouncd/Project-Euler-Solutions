@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  5 18:39:03 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Sub-string divisibility
 Problem 43 

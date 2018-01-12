@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 10:36:12 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 s = 0
 for i in range(1,1000):

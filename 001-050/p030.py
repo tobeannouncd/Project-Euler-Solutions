@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 21:39:49 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 def digit_power_sum(num, power):

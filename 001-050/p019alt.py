@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 11:44:44 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 def isLeapYear(year):
     if year % 400 == 0:

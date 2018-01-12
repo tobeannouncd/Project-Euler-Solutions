@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 15:33:06 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 def factors(num):
     out = []

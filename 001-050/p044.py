@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 09:12:19 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Pentagon numbers
 

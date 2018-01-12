@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  5 17:19:54 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 irr_num = '0.'

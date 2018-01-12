@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 12:23:20 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 def sumDivisors(n):

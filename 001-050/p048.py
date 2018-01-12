@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 17:42:17 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Self powers
 

@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 14:56:09 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 def isPandigital(n1, n2, n3):
     n_str = sorted(list(str(n1) + str(n2) + str(n3)))

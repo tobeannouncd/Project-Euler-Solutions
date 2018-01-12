@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 22:20:19 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 res = []
 for a in range(1,10):

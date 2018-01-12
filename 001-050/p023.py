@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 13:19:45 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 def isAbundant(num):
     s = 0

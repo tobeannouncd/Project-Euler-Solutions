@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  5 17:31:45 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Pandigital prime
 Problem 41 

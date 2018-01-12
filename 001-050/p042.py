@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  5 18:17:38 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Coded triangle numbers
 Problem 42 

@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 30 09:47:58 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Project Euler problem 38: pandigital multiples
 

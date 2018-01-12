@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 13:02:42 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 def p22():

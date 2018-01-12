@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 18:08:46 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
         
 def is_prime(n):

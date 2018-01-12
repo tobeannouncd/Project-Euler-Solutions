@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 15:11:08 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Project Euler Problem 34: Digit factorials
 

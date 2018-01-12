@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 15:24:51 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 a, b, i = 1, 1, 2

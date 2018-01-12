@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 22:11:13 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Project Euler problem 36: Double-base palindromes
 

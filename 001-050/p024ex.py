@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 14:39:43 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 from math import factorial
 

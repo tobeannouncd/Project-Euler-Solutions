@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 30 11:01:02 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 
 def pythag_triples(m):

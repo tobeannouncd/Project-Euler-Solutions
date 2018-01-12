@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 22:37:16 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 def rn_to_dec(rn):
     letter_dict = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 
