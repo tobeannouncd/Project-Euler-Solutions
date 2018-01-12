@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 14:03:05 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Problem 52: Permuted multiples
 It can be seen that the number, 125874, and its double, 251748, contain exactly 

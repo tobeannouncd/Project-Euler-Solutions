@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 09:58:24 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Problem 51: Prime digit replacements
 

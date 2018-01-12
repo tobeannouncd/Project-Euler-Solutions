@@ -6,9 +6,14 @@ Project Euler
 """
 from time import clock
 
+
+def euler_XXX():
+    return
+
+
 start_time = clock()
 
-# INSERT CODE HERE
+print(euler_XXX())
 
 time_elapsed = clock() - start_time
 print('Executed in {:.3G} seconds.'.format(time_elapsed))

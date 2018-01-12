@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 12:58:52 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Primes_051.py
 

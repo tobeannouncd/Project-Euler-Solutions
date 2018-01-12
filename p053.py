@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 14:19:08 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Problem 53: Combinatoric selections
 

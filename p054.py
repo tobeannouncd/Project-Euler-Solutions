@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 14:39:29 2017
 
-@author: Tyler
+@author: tobeannouncd
 
 Problem 54: Poker hands
 

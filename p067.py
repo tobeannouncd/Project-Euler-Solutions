@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 10:39:08 2017
 
-@author: Tyler
+@author: tobeannouncd
 """
 tri = []
 with open('p067_triangle.txt') as f:
