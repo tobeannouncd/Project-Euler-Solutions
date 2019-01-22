@@ -21,8 +21,7 @@ def euler_099():
             return i + 1
     return 0
 
+
 start_time = clock()
-
 print(euler_099())
-
 print('Executed in {:.3G} seconds.'.format(clock() - start_time))

@@ -60,3 +60,15 @@ def prime_sieve(limit):
             for n in range(i*i, limit, i):
                 a[n] = False
 
+
+def prime_list(limit):
+    a = [False] + [True] * limit
+    a[1] = False
+    
+    for (i, isprime) in enumerate(a):
+        if i > limit**(1/2):
+            break
+        if isprime:
+            for n in range(i*i, limit, i):
+                a[n] = False
+    return a
